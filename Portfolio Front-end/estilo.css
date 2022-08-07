@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+font-family: 'Abril Fatface', cursive;
+font-family: 'Abril Fatface', cursive;
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Quantico', sans-serif;
+
+}
+ .texto{
+    background-color:rgb(184, 213, 226);
+ }
+
+.table{
+    color: rgb(19, 26, 27);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:oblique;
+    font-weight: 1500%;
+}
+
+.container{
+    color: rgb(212, 212, 12);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.navbar{
+width: 1380px;
+background-color: rgb(184, 213, 226);
+
+    }
